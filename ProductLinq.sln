@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductLinq", "ProductLinq\ProductLinq.csproj", "{F38F2EF4-61D3-459F-99A4-F4675ED6582C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38F2EF4-61D3-459F-99A4-F4675ED6582C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38F2EF4-61D3-459F-99A4-F4675ED6582C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38F2EF4-61D3-459F-99A4-F4675ED6582C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38F2EF4-61D3-459F-99A4-F4675ED6582C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D316EC-8AF9-457D-AA7C-5BACC13E11D0}
+	EndGlobalSection
+EndGlobal
